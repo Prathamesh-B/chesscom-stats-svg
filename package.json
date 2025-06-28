@@ -1,5 +1,5 @@
 {
-  "name": "chesscom-profile-svg",
+  "name": "chesscom-stats-svg",
   "version": "1.0.0",
   "description": "A service to generate SVG representations of chess.com profile data.",
   "main": "index.js",
